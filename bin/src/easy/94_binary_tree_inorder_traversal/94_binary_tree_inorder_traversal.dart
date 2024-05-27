@@ -27,7 +27,6 @@ class BinaryTeenInorderTraversal {
 void main() {
   final nodes = TreeNode(
     1,
-    null,
     TreeNode(
       2,
       TreeNode(
